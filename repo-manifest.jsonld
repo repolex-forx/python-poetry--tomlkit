@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-poetry/tomlkit/commit/858186a3edb4cad6d66281ee7ad5fb07fe820406",
       "git:hexsha": "858186a3edb4cad6d66281ee7ad5fb07fe820406",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-poetry/tomlkit/commit/c1cc54f59833e38d58b30a30655404d8b92b84b0",

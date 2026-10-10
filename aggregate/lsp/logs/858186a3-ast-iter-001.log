@@ -1,0 +1,7 @@
+[2026-10-10T22:32:28Z] === AST ITERATION 1 START | repo=python-poetry/tomlkit sha=858186a3 ===
+[2026-10-10T22:32:28Z] [iter=1] PHASE START: ast repo=python-poetry/tomlkit sha=858186a3
+[2026-10-10T22:32:28Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T22:33:17Z] [iter=1] AST chunks built count=1 triples=432069
+[2026-10-10T22:33:17Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/858186a3edb4cad6d66281ee7ad5fb07fe820406/.complete
+[2026-10-10T22:33:17Z] [iter=1] PHASE END: ast elapsed_s=49 elapsed_min=0.8
+[2026-10-10T22:33:17Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
